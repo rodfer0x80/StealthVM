@@ -1,3 +1,5 @@
+: : Source (2022) :: [https://github.com/xyafes/VBoxAntiDetection]
+
 @echo off
 :_PreInit
 set _title=VboxModifyManager 

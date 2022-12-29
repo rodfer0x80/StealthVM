@@ -1,3 +1,5 @@
+# Source (2022) :: [https://github.com/xyafes/VBoxAntiDetection]
+
 param (
 	[switch]$all = $false,
 	[switch]$reg = $false,
